@@ -1,0 +1,8 @@
+{
+  "name": "VidStream",
+  "description": "A YouTube-like video player with auto-metadata generation using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
